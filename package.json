@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "description": "Proyecto para la Actividad 01 - Gitflow",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jachacon12/gestion-de-proyectos.git"
@@ -18,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Jachacon12/gestion-de-proyectos/issues"
   },
-  "homepage": "https://github.com/Jachacon12/gestion-de-proyectos#readme"
+  "homepage": "https://github.com/Jachacon12/gestion-de-proyectos#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^12.0.0",
+    "@commitlint/config-conventional": "^12.0.0",
+    "@semantic-release/git": "^10.0.1",
+    "husky": "^7.0.0"
+  }
 }
