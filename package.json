@@ -1,0 +1,22 @@
+{
+  "name": "gestion-de-proyectos",
+  "version": "0.0.0",
+  "description": "Proyecto para la Actividad 01 - Gitflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jachacon12/gestion-de-proyectos.git"
+  },
+  "keywords": [
+    "gitflow"
+  ],
+  "author": "Jorge Chacon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jachacon12/gestion-de-proyectos/issues"
+  },
+  "homepage": "https://github.com/Jachacon12/gestion-de-proyectos#readme"
+}
