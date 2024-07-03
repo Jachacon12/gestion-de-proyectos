@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "Proyecto para la Actividad 01 - Gitflow",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "prepare": "husky install"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jachacon12/gestion-de-proyectos.git"
