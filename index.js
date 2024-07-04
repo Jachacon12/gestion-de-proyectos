@@ -12,3 +12,10 @@ export class B {
         this.fu = fu;
     }
 }
+
+export class C {
+    constructor(from, to) {
+        this.from = from;
+        this.to = to;
+    }
+}
