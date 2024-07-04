@@ -6,3 +6,16 @@ export class A {
     }
 }
 
+export class B {
+    constructor(kung, fu) {
+        this.kung = kung;
+        this.fu = fu;
+    }
+}
+
+export class C {
+    constructor(from, to) {
+        this.from = from;
+        this.to = to;
+    }
+}
