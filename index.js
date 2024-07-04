@@ -6,3 +6,9 @@ export class A {
     }
 }
 
+export class B {
+    constructor(kung, fu) {
+        this.kung = kung;
+        this.fu = fu;
+    }
+}
